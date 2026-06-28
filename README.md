@@ -6,6 +6,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Math
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2769-find-the-maximum-achievable-number) |
 ## Hash Table
@@ -46,4 +47,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
