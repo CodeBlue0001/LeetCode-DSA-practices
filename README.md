@@ -32,6 +32,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +53,12 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
