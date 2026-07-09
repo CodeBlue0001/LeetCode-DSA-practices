@@ -10,11 +10,13 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2469-convert-the-temperature](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2769-find-the-maximum-achievable-number) |
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
+| [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
