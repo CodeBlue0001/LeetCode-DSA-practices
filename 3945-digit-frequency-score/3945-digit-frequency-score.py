@@ -1,13 +1,12 @@
-class Solution:
-    def digitFrequencyScore(self, n: int) -> int:
-        freq={}
-        for i in str(n):
-            if i in freq:
-                freq[i]+=1
-            else:
-                freq[i]=1
+class Solution(object):
+    def digitFrequencyScore(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        # solving using set
+        uniq=set(str(n))
         ans=0
-        for key,value in freq.items():
-            ans+=(int(key)*value)
-            # print(key,value)
+        for i in uniq:
+            ans+=int(i)*(str(n).count(i))
         return ans
