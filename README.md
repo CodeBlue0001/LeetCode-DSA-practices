@@ -6,6 +6,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2469-convert-the-temperature) |
@@ -69,4 +70,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
