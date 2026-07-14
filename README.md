@@ -77,4 +77,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
