@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        c=nums1.count(0)-m
+        
         while 0 in nums1 and n:
             nums1.remove(0)
             n-=1
