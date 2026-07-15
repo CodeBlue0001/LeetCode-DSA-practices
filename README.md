@@ -36,6 +36,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1672-richest-customer-wealth) |
@@ -89,4 +90,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
