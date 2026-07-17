@@ -1,12 +1,9 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        for i in range(len(nums)-1):
-            # if nums[i]<=target:
-                for j in range(i+1,len(nums)):
-                    if nums[i]+nums[j]==target:
-                        return [i,j]
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        diff={}
+        for i in range(len(nums)):
+            difference=target-nums[i]
+            if difference in diff:
+                return [diff[difference],i]
+            else:
+                diff[nums[i]]=i
