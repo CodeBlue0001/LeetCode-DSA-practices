@@ -1,5 +1,6 @@
 class Solution:
     def convertDateToBinary(self, date: str) -> str:
+        # with out using the bin funtion
         def dec_to_binary(num):
             bi=''
             while(num):
