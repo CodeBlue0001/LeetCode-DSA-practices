@@ -8,9 +8,7 @@ class Solution:
                 num=num//2
             return bi[::-1]
         s=date.split('-')
-        print(s)
-        binary_date=""
-        binary_date+=dec_to_binary(int(s[0]))+"-"
-        binary_date+=dec_to_binary(int(s[1]))+"-"
-        binary_date+=dec_to_binary(int(s[2]))
-        return binary_date
+        
+        return dec_to_binary(int(s[0]))+"-"+dec_to_binary(int(s[1]))+"-"+dec_to_binary(int(s[2]))
+        
+        
