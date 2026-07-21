@@ -6,12 +6,12 @@ class Solution(object):
         :rtype: int
         """
         
-        factor=1
+        # factor=1
         for i in range(1,n+1):
             if n%i==0 and k:
-                factor=i
+                # factor=i
                 k-=1
             if k==0:
-                return factor
+                return i
         return -1
         
