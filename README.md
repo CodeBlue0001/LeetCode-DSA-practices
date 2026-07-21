@@ -6,6 +6,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Math
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2235-add-two-integers) |
@@ -72,6 +73,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3658-gcd-of-odd-and-even-sums) |
