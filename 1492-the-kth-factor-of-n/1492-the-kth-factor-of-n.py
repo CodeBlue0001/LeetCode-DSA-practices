@@ -11,7 +11,7 @@ class Solution(object):
             if n%i==0 and k:
                 factor=i
                 k-=1
-        if k==0:
-            return factor
+            if k==0:
+                return factor
         return -1
         
