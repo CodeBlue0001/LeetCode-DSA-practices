@@ -1,11 +1,4 @@
-class Solution(object):
-    def maxProduct(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        lst=[]
-        for i in str(n):
-            lst+=[int(i)]
-        lst.sort(reverse=True)
-        return lst[0]*lst[1]
+class Solution:
+    def maxProduct(self, n: int) -> int:
+        s=sorted(str(n))
+        return int(s[-1])*int(s[-2])
