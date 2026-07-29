@@ -4,28 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        # removing the spaces
-        # cleaned=s.replace(" ", "")
-        # cleaned=cleaned.replace(",","")
-        # cleaned=cleaned.replace(":","")
-        # cleaned=cleaned.replace(".","")
-        # cleaned=cleaned.replace("$","")
-        # cleaned=cleaned.replace("/","")
-        # cleaned=cleaned.replace("\\","")
-        # cleaned=cleaned.replace("@","")
-        # cleaned=cleaned.replace("%","")
-        # cleaned=cleaned.replace("#","")
-        # cleaned=cleaned.replace(")","")
-        # cleaned=cleaned.replace("(","")
-        # cleaned=cleaned.replace("&","")
-        # cleaned=cleaned.replace("!","")
-        # cleaned=cleaned.replace("_","")
-        # cleaned=cleaned.replace("[","")
-        # cleaned=cleaned.replace("]","")
-        # cleaned=cleaned.replace("{","")
-        # cleaned=cleaned.replace("}","")
-        # cleaned=cleaned.replace("'","")
-        # cleaned=cleaned.replace('"',"")
+        
         lst="!@#$%^&*()_\"+-=\|{][}'?/;:.,<>*+ ~`"
         for i in lst:
             s=s.replace(i,"")
