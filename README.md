@@ -14,6 +14,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
@@ -67,6 +68,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0058-length-of-last-word](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
@@ -87,6 +89,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
