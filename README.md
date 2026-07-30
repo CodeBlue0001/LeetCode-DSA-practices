@@ -25,6 +25,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0001-two-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
@@ -47,6 +48,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
@@ -77,6 +79,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
@@ -94,6 +97,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,4 +132,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
