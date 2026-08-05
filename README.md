@@ -71,6 +71,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0058-length-of-last-word](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
@@ -131,6 +132,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,4 +141,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
