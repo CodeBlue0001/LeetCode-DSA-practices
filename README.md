@@ -16,6 +16,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2769-find-the-maximum-achievable-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -121,6 +122,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
