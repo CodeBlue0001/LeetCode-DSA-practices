@@ -47,6 +47,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0011-container-with-most-water) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -130,6 +132,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
