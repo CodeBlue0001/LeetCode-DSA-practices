@@ -4,18 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        sn=nums
-        print(sn)
-        prefix=sn[0]
-        for i in range(1,len(sn)):
+        
+        prefix=nums[0]
+        for i in range(1,len(nums)):
             
-            if sn[i]==sn[i-1]+1:
-                prefix+=sn[i]
-                print(prefix,sn[i])
+            if nums[i]==nums[i-1]+1:
+                prefix+=nums[i]
+                # print(prefix,sn[i])
             else:
                 break
         while True:
-            if prefix in sn:
+            if prefix in nums:
                 prefix+=1
             else:
                 return prefix
