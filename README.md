@@ -30,6 +30,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -62,6 +63,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
