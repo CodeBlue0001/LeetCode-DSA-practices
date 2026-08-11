@@ -17,5 +17,6 @@ class Solution(object):
             if prefix in nums:
                 prefix+=1
             else:
-                return prefix
+                break
+        return prefix
         
