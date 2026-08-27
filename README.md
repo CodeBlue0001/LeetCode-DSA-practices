@@ -28,6 +28,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -80,6 +81,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -93,6 +95,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
