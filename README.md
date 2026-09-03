@@ -21,6 +21,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
