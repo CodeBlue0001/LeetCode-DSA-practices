@@ -6,6 +6,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
@@ -174,9 +175,14 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
