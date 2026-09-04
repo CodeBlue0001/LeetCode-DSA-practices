@@ -17,11 +17,11 @@ class Solution:
         
 
         
-        print(f"l:{l}\nr:{r}")        
+        # print(f"l:{l}\nr:{r}")        
         
         for i in range(len(height)):
             w=min(l[i],r[i])-height[i]
-            print(f"{l[i]},{r[i]}-{height[i]}={w}")
+            # print(f"{l[i]},{r[i]}-{height[i]}={w}")
             if w>0:
                 water+=w
         return water
