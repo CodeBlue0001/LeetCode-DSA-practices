@@ -59,6 +59,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0015-3sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
@@ -160,6 +161,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0015-3sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +177,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -185,4 +188,12 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
