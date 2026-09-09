@@ -21,6 +21,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
