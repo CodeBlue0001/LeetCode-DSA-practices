@@ -39,6 +39,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3903-smallest-stable-index-i) |
