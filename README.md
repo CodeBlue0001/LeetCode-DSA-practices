@@ -8,6 +8,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -208,4 +209,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
