@@ -14,9 +14,9 @@ class Solution:
         n1=find_num(l1)
         n2=find_num(l2)
         result=n1+n2
-        print(f"{n1}+{n2}={result}")
+        # print(f"{n1}+{n2}={result}")
         result=str(result)[::-1]
-        print(result)
+        # print(result)
         # updating the l1
         i=0
         ptr=l1
@@ -26,7 +26,8 @@ class Solution:
             prv=ptr
             ptr=ptr.next
             i+=1
-        print(i)
+        # print(i)
+        # adding extra digits if they are left 
         while i<=len(result)-1:
            prv.next=ListNode(int(result[i]))
            i+=1
