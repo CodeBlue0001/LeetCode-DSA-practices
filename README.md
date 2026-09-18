@@ -6,6 +6,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0836-rectangle-overlap) |
@@ -47,6 +48,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
 ## Design
@@ -211,6 +213,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
