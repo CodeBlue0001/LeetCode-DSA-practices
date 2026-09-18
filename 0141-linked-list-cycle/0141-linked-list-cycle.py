@@ -9,13 +9,13 @@ class Solution:
         # applying flyeds algorithm
         slow=head
         fast=head
-        if slow==None:
+        if head==None:
             return False
         while fast!=None and fast.next!=None :
             
             slow=slow.next
             fast=fast.next.next
-            
+
             if slow==fast:
                 return True
             
