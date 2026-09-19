@@ -69,6 +69,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +112,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
