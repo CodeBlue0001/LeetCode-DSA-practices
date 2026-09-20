@@ -1,15 +1,10 @@
-class Solution:
-    def reverseDegree(self, s: str) -> int:
-        # solving using has map
-        map_str={}
-        v='a'
-        for i in range(26,0,-1):
-            map_str[v]=i
-            v=chr(ord(v)+1)
-        # print(map_str)
+class Solution(object):
+    def reverseDegree(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         result=0
-        for i,n in enumerate(s):
-            result+=((i+1)*map_str[n])
+        for i,char in enumerate(s):
+            result+=((123-(ord(char)))*(i+1))
         return result
-
-        
