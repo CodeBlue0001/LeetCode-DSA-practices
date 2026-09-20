@@ -1,5 +1,6 @@
 class Solution:
     def reverseDegree(self, s: str) -> int:
+        # solving using has map
         map_str={}
         v='a'
         for i in range(26,0,-1):
