@@ -109,6 +109,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
