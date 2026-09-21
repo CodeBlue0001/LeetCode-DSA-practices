@@ -65,6 +65,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0001-two-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
@@ -138,6 +139,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
@@ -176,6 +178,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
