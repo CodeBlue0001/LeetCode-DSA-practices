@@ -40,6 +40,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
@@ -80,6 +81,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1480-running-sum-of-1d-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
@@ -107,6 +109,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
