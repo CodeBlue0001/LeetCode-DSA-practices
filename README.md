@@ -106,6 +106,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
@@ -224,6 +225,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -247,5 +249,6 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
