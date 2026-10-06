@@ -28,5 +28,5 @@ class Solution:
                 stack.append(p)
             else:
                 stack+=[p]
-        print(stack,len(stack))
+        # print(stack,len(stack))
         return len(stack)
