@@ -115,6 +115,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -230,6 +231,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -254,5 +256,6 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
