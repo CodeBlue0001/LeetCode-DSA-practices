@@ -95,6 +95,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3903-smallest-stable-index-i) |
@@ -150,6 +151,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
