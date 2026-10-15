@@ -43,6 +43,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
@@ -90,6 +91,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
@@ -263,4 +265,12 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
