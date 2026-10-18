@@ -37,6 +37,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
@@ -116,6 +117,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
