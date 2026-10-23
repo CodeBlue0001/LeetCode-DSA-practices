@@ -133,6 +133,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
@@ -220,6 +221,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
