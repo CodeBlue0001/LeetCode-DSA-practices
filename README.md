@@ -292,4 +292,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0215-kth-largest-element-in-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
