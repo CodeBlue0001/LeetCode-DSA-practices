@@ -5,13 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        
-        # factor=1
+        ans=0
         for i in range(1,n+1):
-            if n%i==0 and k:
-                # factor=i
+            if n%i==0 :
+                ans=i
                 k-=1
             if k==0:
-                return i
+                return ans
+                
+            
         return -1
-        
