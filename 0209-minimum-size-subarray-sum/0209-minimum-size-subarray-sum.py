@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         # window=[]
-        total=[]
+        total=None
         S=0
         lng=0
         i=0
@@ -15,7 +15,10 @@ class Solution(object):
             S+=nums[i]
             lng+=1
             while S>=target:
-                total+=[lng]
+                if total:   
+                    total=min(total,lng)
+                else:
+                    total=lng
                 S-=nums[ptr]
                 ptr+=1
                 lng-=1
@@ -27,5 +30,5 @@ class Solution(object):
 
         # print(total)
         if total:
-            return min(total)
+            return total
         return 0
