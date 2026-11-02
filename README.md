@@ -8,6 +8,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
@@ -80,6 +81,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
@@ -173,6 +175,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
