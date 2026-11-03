@@ -1,11 +1,3 @@
-class Solution(object):
-    def minMoves(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        ans=0
-        l=max(nums)
-        for n in nums:
-            ans+=abs(n-l)
-        return ans
+class Solution:
+    def minMoves(self, nums: List[int]) -> int:
+        return len(nums)*max(nums)-sum(nums)
