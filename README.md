@@ -88,6 +88,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1480-running-sum-of-1d-array) |
@@ -181,6 +182,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2126-destroying-asteroids) |
@@ -213,6 +215,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -229,6 +232,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
