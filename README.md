@@ -309,4 +309,20 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
