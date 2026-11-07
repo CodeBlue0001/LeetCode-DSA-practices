@@ -265,6 +265,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
@@ -312,10 +313,12 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -324,5 +327,6 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
