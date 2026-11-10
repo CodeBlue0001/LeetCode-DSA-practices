@@ -9,5 +9,5 @@ class Solution(object):
         for n in nums:
             one=(one^n)& ~two
             two=(two^n)& ~one
-            print(one,two)
+            # print(one,two)
         return one
