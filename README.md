@@ -79,6 +79,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
