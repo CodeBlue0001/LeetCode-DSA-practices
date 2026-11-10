@@ -1,11 +1,13 @@
-class Solution:
-    def singleNumber(self, nums: list[int]) -> int:
-        has={}
-        for num in nums:
-            if num not in has:
-                has[num]=1
-            else:
-                has[num]+=1
-        for num,freq in has.items():
-            if freq==1:
-                return num
+class Solution(object):
+    def singleNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        one=0
+        two=0
+        for n in nums:
+            one=(one^n)& ~two
+            two=(two^n)& ~one
+            print(one,two)
+        return one
