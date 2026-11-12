@@ -122,6 +122,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0205-isomorphic-strings) |
@@ -267,6 +268,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
