@@ -63,6 +63,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -271,6 +272,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
