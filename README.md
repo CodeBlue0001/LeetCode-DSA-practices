@@ -59,6 +59,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0002-add-two-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -237,6 +238,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0151-reverse-words-in-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
