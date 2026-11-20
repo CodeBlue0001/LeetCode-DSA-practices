@@ -35,6 +35,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0018-4sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0136-single-number) |
@@ -118,6 +120,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1672-richest-customer-wealth) |
 ## String
