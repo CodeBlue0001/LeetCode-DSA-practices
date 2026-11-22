@@ -142,6 +142,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
