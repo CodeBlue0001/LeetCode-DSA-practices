@@ -11,6 +11,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1352-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0146-lru-cache](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -93,6 +95,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,6 +207,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3904-smallest-stable-index-ii) |
@@ -343,4 +347,8 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
