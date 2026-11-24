@@ -1,13 +1,16 @@
 class Solution:
     def maxLength(self, nums: List[int]) -> int:
-        def prod(arr):
-            n=1
-            for i in arr:
-                n*=i
-            return n
+        # def prod(arr):
+        #     n=1
+        #     for i in arr:
+        #         n*=i
+        #     return n
         import math
         l=len(nums)
         ans=0
+        if l<=1:
+            return nums[0]
+
         for i in range(l):
             sub=[nums[i]]
             product=nums[i]
@@ -18,8 +21,10 @@ class Solution:
                 gcd=math.gcd(*sub)
                 if product==lcm*gcd:
                     if len(sub)>ans:
-                        print(sub)
+                        
                         ans=len(sub)
                 else:
                     break
+                if ans>l-i:
+                    return ans 
         return ans
