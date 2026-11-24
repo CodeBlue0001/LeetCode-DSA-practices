@@ -23,6 +23,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -111,6 +112,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -173,6 +175,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1492-the-kth-factor-of-n](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -225,6 +228,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1291-sequential-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -272,6 +276,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Memoization
 |  |
 | ------- |
