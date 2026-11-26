@@ -5,10 +5,7 @@ class Solution:
         while n>=turn:
             n-=turn
 
-            if alice==True:
-                alice=False
-            else:
-                alice=True
+            alice=not alice
             turn-=1
             
         return alice
