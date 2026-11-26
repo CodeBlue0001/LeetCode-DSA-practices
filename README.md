@@ -23,6 +23,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3536-maximum-product-of-two-digits) |
@@ -221,6 +222,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
