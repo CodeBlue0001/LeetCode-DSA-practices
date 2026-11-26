@@ -94,6 +94,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +292,7 @@ This repo contains my DSA tests and leetcode solving sheets, and all my random p
 | [0071-simplify-path](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0155-min-stack) |
+| [0636-exclusive-time-of-functions](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0636-exclusive-time-of-functions) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CodeBlue0001/LeetCode-DSA-practices/tree/master/1441-build-an-array-with-stack-operations) |
